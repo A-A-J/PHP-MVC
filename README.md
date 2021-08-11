@@ -1,6 +1,10 @@
-# prol
- PHP MVC
- 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
+# About
+The mvc project I developed is serial and very easy to use. Mostly it will be useful for anyone who wants to learn how to build a simplified mvc project.
 
-## Contributing
+## The frameworks used are:
+- woops
+- RainTpl
+- phpdotenv
+
+## class:
+- Select Language xml
