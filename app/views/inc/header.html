@@ -1,0 +1,9 @@
+<form action="{$_ENV.APP_URL}" method="POST">
+    <select name="Lang" onchange="this.form.submit()">
+        {loop="$languages->list()"}
+            {if="is_file('../app/languages/'.$value.'.xml')"}
+                <option value="{$value}" {if="$value == $languages->html('language')"} selected {/if}>{$value}</option>
+            {/if}
+        {/loop}
+    </select>
+</form>

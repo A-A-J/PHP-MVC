@@ -1,0 +1,9 @@
+<?php
+require_once('vendor/autoload.php');
+require_once('core/system/error.php');
+require_once('config/inc.php');
+require_once('core/system/language.php');
+require_once('core/function.php');
+require_once('core/api.php');
+require_once('core/controller.php');
+require_once('core/database.php');

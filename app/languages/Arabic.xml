@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language lang="ar" language="Arabic" dir="rtl" last_update="2020-01-21">
+    <phrasegroup>
+        <phrase name="HOME">الرئيسية</phrase>
+        <phrase name="BLOG">مدونة</phrase>
+        <phrase name="RED_MORE">قراءة المزيد</phrase>
+    </phrasegroup>
+</language>

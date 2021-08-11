@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language lang="en" language="English" dir="ltr" last_update="2020-01-21">
+    <phrasegroup>
+        <phrase name="HOME">Home</phrase>
+        <phrase name="BLOG">Blogs</phrase>
+        <phrase name="RED_MORE">Read More</phrase>
+    </phrasegroup>
+</language>
